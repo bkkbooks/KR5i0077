@@ -1903,6 +1903,7 @@ markers:
   - {type: variant, offset: 3885, length: 3, content: 步上示, CK-KZ-jye: ''}
   - {type: 'kr:non-cjk', offset: 3886, content: +, id: KR5i0077_krp_002-bkkkrnonc5}
   - {type: punctuation, offset: 3886, content: (, id: KR5i0077_krp_002-bkkpn1}
+  - {type: voice, offset: 3886, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3887, content: /, id: KR5i0077_krp_002-bkkpn2}
   - {type: punctuation, offset: 3888, content: ), id: KR5i0077_krp_002-bkkpn3}
   - {type: 'kr:non-cjk', offset: 3888, content: '][', id: KR5i0077_krp_002-bkkkrnonc6}
@@ -1910,6 +1911,7 @@ markers:
   - {type: variant, offset: 3889, length: 3, content: 步上示, CK-KZ-jye: ''}
   - {type: 'kr:non-cjk', offset: 3890, content: +, id: KR5i0077_krp_002-bkkkrnonc8}
   - {type: punctuation, offset: 3890, content: (, id: KR5i0077_krp_002-bkkpn4}
+  - {type: voice, offset: 3890, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3891, content: /, id: KR5i0077_krp_002-bkkpn5}
   - {type: punctuation, offset: 3892, content: ), id: KR5i0077_krp_002-bkkpn6}
   - {type: 'kr:non-cjk', offset: 3892, content: ']', id: KR5i0077_krp_002-bkkkrnonc9}
@@ -2741,6 +2743,7 @@ markers:
   - {type: line-break, offset: 5870, content: '', id: CK-KZ_KR5i0077_02p029b01}
   - {type: substitution, offset: 5874, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 5880, content: (, id: KR5i0077_krp_002-bkkpn7}
+  - {type: voice, offset: 5880, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 5881, content: ), id: KR5i0077_krp_002-bkkpn8}
   - {type: 'kr:newline', offset: 5881, content: '
 
@@ -2847,4 +2850,4 @@ markers:
 
       ', id: KR5i0077_krp_002-bkkkrnewl649}
   back: []
-hash: sha256:b9fb5049aa0980978180f7d7cbf007154d20b16018bce8e901b9d05fcbc5f754
+hash: sha256:ed3d70cc99af7cd8ce0aa6c9dd25ad5aca1de4ef2ee374d4ce65984559112d7c

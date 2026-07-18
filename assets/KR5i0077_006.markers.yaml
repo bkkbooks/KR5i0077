@@ -899,6 +899,7 @@ markers:
       ', id: KR5i0077_krp_006-bkkkrnewl205}
   - {type: line-break, offset: 1763, content: '', id: CK-KZ_KR5i0077_06p010a08}
   - {type: punctuation, offset: 1765, content: (, id: KR5i0077_krp_006-bkkpn1}
+  - {type: voice, offset: 1765, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1766, content: ), id: KR5i0077_krp_006-bkkpn2}
   - {type: substitution, offset: 1767, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: 'kr:newline', offset: 1787, content: '
@@ -2611,6 +2612,7 @@ markers:
       ', id: KR5i0077_krp_006-bkkkrnewl605}
   - {type: line-break, offset: 5633, content: '', id: CK-KZ_KR5i0077_06p028b01}
   - {type: punctuation, offset: 5635, content: (, id: KR5i0077_krp_006-bkkpn3}
+  - {type: voice, offset: 5635, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5636, content: ), id: KR5i0077_krp_006-bkkpn4}
   - {type: substitution, offset: 5637, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: 'kr:newline', offset: 5657, content: '
@@ -2683,6 +2685,7 @@ markers:
       ', id: KR5i0077_krp_006-bkkkrnewl620}
   - {type: line-break, offset: 5889, content: '', id: CK-KZ_KR5i0077_06p029a05}
   - {type: punctuation, offset: 5899, content: (, id: KR5i0077_krp_006-bkkpn5}
+  - {type: voice, offset: 5899, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 5900, content: ), id: KR5i0077_krp_006-bkkpn6}
   - {type: 'kr:newline', offset: 5900, content: '
 
@@ -2763,4 +2766,4 @@ markers:
 
       ', id: KR5i0077_krp_006-bkkkrnewl637}
   back: []
-hash: sha256:436b3bb9344533d7a32d233386d1139b9c32150da51ce5e1bec0bced744374f5
+hash: sha256:d259b8943a8d7ee96a3e19225d075098459a9c38930182d13cd563c9bc9c7679

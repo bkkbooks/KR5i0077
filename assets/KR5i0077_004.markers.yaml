@@ -875,6 +875,7 @@ markers:
       ', id: KR5i0077_krp_004-bkkkrnewl200}
   - {type: line-break, offset: 1780, content: '', id: CK-KZ_KR5i0077_04p010a03}
   - {type: punctuation, offset: 1781, content: (, id: KR5i0077_krp_004-bkkpn1}
+  - {type: voice, offset: 1781, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1782, content: ), id: KR5i0077_krp_004-bkkpn2}
   - {type: substitution, offset: 1801, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 1804, content: '
@@ -2720,6 +2721,7 @@ markers:
       ', id: KR5i0077_krp_004-bkkkrnewl627}
   - {type: line-break, offset: 5862, content: '', id: CK-KZ_KR5i0077_04p029b01}
   - {type: punctuation, offset: 5880, content: (, id: KR5i0077_krp_004-bkkpn3}
+  - {type: voice, offset: 5880, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5881, content: ), id: KR5i0077_krp_004-bkkpn4}
   - {type: substitution, offset: 5884, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: 'kr:newline', offset: 5886, content: '
@@ -2797,6 +2799,7 @@ markers:
       ', id: KR5i0077_krp_004-bkkkrnewl641}
   - {type: line-break, offset: 6093, content: '', id: CK-KZ_KR5i0077_04p030a04}
   - {type: punctuation, offset: 6103, content: (, id: KR5i0077_krp_004-bkkpn5}
+  - {type: voice, offset: 6103, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 6104, content: ), id: KR5i0077_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 6104, content: '
 
@@ -2882,4 +2885,4 @@ markers:
 
       ', id: KR5i0077_krp_004-bkkkrnewl659}
   back: []
-hash: sha256:627e63ddead1a47ecc98e02ee0485b248f497a976effa56f2523ec082c6813f2
+hash: sha256:ee670d432fc5cdcbc09cd50ba0a55bc5201b3670abecc1b5af1999e650aa8cf5
